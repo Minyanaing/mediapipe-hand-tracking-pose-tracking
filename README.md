@@ -16,6 +16,6 @@ The test code can be run using:
 ```
 python3 Volume_control.py
 ```
-![Volume Control with MediaPipe]("./Volume_control_test.png")
+![Volume Control with MediaPipe](Volume_control_test.png)
 
 The volume of the system is mapped with the distance between two fingers. You may need to re-map according to your resulution of the webCam.
