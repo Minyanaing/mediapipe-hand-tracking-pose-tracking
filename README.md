@@ -19,3 +19,11 @@ python3 Volume_control.py
 ![Volume Control with MediaPipe](Volume_control_test.png)
 
 The volume of the system is mapped with the distance between two fingers. You may need to re-map according to your resulution of the webCam.
+
+### Number Count with Finger
+Displaying the numbers according to the fingers of the hand. **MediaPipe** detects the land-marks of the finger and the number is counted according the location of the landmarks on camera pixels. To display the finger images according to the results, the images are stored in `Finger` folder.
+
+The test code can be run using:
+```
+python3 Finger_count.py
+```
