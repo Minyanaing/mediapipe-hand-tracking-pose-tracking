@@ -27,6 +27,6 @@ The test code can be run using:
 ```
 python3 Finger_count.py
 ```
-![Number Count using Finger with MediaPipe](Finger_Count_test.png)
+![Number Count using Finger with MediaPipe](Finger_Count_test.jpg)
 
 You can easily add for ***ZERO*** by adding hand picture in the `Finger` folder and only need few lines to change.
